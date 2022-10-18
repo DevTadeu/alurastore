@@ -12,5 +12,4 @@ Um curso do professor Matheus Castiglioni, com o objetivo de criar o site da Alu
 * CSS
 
 ## Screenshots
-https://github.com/DevTadeu/alurastore/issues/2#issue-1413941865
-
+![alura store (3)](https://user-images.githubusercontent.com/99771087/196560521-97b350b1-f23e-498d-941e-ed12415c27a0.png)
