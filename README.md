@@ -1,10 +1,9 @@
-# alurastore
 
 ![alura store](https://user-images.githubusercontent.com/99771087/196551927-14f354ad-7402-485d-b46b-522f18ed3506.png)
 
 <hr>
 
-<p align="center"> alura-store </p>
+<h1 align="center"> Css-Grid </h1>
 Um curso do professor Matheus Castiglioni, com o objetivo de criar o site da Alura Store do zero, por meio do CSS Grid Layout.
 
 ## Tecnologias
